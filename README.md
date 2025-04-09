@@ -55,6 +55,4 @@ The project provides a binary classification model predicting whether a loan wil
 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
+mail at suraj@smail.iitm.ac.in
