@@ -1,4 +1,5 @@
-Credit Scorecard Project
+#RiskGuard: Credit Card Risk Analysis
+
 
 This project aims to develop a credit scorecard model to predict loan default risk using the Lending Club loan dataset. The notebook covers data preprocessing, feature engineering, model development, and evaluation.
 
